@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rflatters
-- 👀 I’m interested in learning puthon and c#
+- 👀 I’m interested in learning puthon, c#, java and COBOL, when i get chance
 - 🌱 I’m currently learning python and learning about git/github
 - 💞️ I’m looking to collaborate on developing further knowledge about python
 - 📫 How to reach me  via email robert_flatters@yeahoo.co.uk
